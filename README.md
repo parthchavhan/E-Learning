@@ -9,7 +9,8 @@ This is an elearning Platform With Admin, Teacher and Student login. Student Pan
 - python manage.py migrate
 - And finally, run the application: python manage.py runserver
 
-For Admin Account, please create one with superuser!
+Admin:parth
+Password:123456789
 
 
 **For Contact Us Page**
